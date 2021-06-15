@@ -1,2 +1,4 @@
 Arquivo criado para teste do comando 
 git commit -a
+
+Se o arquivo não consta na staging area, não funciona.
