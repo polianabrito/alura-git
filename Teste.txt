@@ -1,0 +1,2 @@
+Arquivo criado para teste do comando 
+git commit -a
